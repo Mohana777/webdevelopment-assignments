@@ -1,0 +1,14 @@
+/* assessment2 external css sheet */
+ body 
+
+ h1 {
+ color: red;
+ text-align: center;
+ font: lucida calligraphy;
+}
+
+h2 {
+ color: red;
+ text-align: center;
+ font: calibri;
+}
