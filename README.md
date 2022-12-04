@@ -1,2 +1,2 @@
 # webdevelopment-assignments
-Assignments for HTML &amp; CSS Course. 
+Assignments for HTML & amp; CSS Course. 
